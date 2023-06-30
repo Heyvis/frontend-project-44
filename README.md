@@ -9,6 +9,12 @@ $ git clone https://github.com/Heyvis/frontend-project-44.git
 $ npm install
 ```
 
+## For start game "Brain Games"
+```sh
+$ brain-games
+```
+
+
 ## For start game "Brain Even"
 ```sh
 $ brain-even
@@ -37,3 +43,4 @@ $ brain-progression
 ```sh
 $ brain-prime
 ```
+[![asciicast](https://asciinema.org/a/WHS5fYFaA9N9sn9YcwJZypMqO.svg)](https://asciinema.org/a/WHS5fYFaA9N9sn9YcwJZypMqO)
