@@ -8,3 +8,32 @@
 $ git clone https://github.com/Heyvis/frontend-project-44.git
 $ npm install
 ```
+
+## For start game "Brain Even"
+```sh
+$ brain-even
+```
+[![asciicast](https://asciinema.org/a/hpS8b1yEOPwTwXuczIBuSK2px.svg)](https://asciinema.org/a/hpS8b1yEOPwTwXuczIBuSK2px)
+
+## For start game "Brain Calc"
+```sh
+$ brain-calc
+```
+[![asciicast](https://asciinema.org/a/fqHKe2TPDf0hoEC8AxnGrbRcM.svg)](https://asciinema.org/a/fqHKe2TPDf0hoEC8AxnGrbRcM)
+
+## For start game "Brain Gcd"
+```sh
+$ brain-gcd
+```
+[![asciicast](https://asciinema.org/a/AZrIDbbwHOeyJoHvDQPXOWdJb.svg)](https://asciinema.org/a/AZrIDbbwHOeyJoHvDQPXOWdJb)
+
+## For start game "Brain Progression"
+```sh
+$ brain-progression
+```
+[![asciicast](https://asciinema.org/a/ocrfZfgBJcGrHDHpAuV1qeRqs.svg)](https://asciinema.org/a/ocrfZfgBJcGrHDHpAuV1qeRqs)
+
+## For start game "Brain Prime"
+```sh
+$ brain-prime
+```
