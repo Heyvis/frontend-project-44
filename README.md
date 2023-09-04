@@ -13,7 +13,7 @@ $ npm install
 ```sh
 $ brain-games
 ```
-
+[![asciicast](https://asciinema.org/a/yFexCt5oheqSnLXB7dj6eFiry.svg)](https://asciinema.org/a/yFexCt5oheqSnLXB7dj6eFiry)
 
 ## For start game "Brain Even"
 ```sh
